@@ -1,21 +1,21 @@
 # Skeleton
 
-# Synopsis
+## Synopsis
 
 TODO
 
-# Installation
+## Installation
 
 TODO
 
-# Basic Usage
+## Basic Usage
 
 TODO
 
-# License
+## License
 
 TODO
 
-# Development
+## Development
 
 TODO
