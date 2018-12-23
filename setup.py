@@ -43,7 +43,7 @@ classifiers = [
 
 setup(
     name=pypi_name,
-    version='TODO',
+    version=version,
     description=description,
     long_description=long_description,
     author=author,
